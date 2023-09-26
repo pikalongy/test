@@ -1,2 +1,2 @@
 <?php
-echo "anh toan ngu" ?>
+echo "anh toan ngu an cut" ?>
